@@ -1,0 +1,5 @@
+Ivanov 32000
+Petrov 15000
+Serov 21000
+Rebrov 10000
+Sokolov 5000
